@@ -76,7 +76,10 @@ def check_end(board, size, current):
 
 # Сохранение статистики
 def save_stats(first_player, winner):
-    stats_file = 'stats.txt'
+    stats_dir = 'stats'  # Название папки
+    stats_file = os.path.join(stats_dir, 'stats.txt')  # Полный путь: stats/stats.txt
+    if not os.path.exists(stats_dir):
+        os.makedirs(stats_dir)
     if not os.path.exists(stats_file):
         with open(stats_file, 'w', encoding='utf-8') as f:
             f.write("Статистика игр:\n")
