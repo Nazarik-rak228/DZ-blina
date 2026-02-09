@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nazar\\Documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F \u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\BK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3BF687-1C7C-C495-A8E1-CB8D383A78A4}|BK\\BK.csproj|c:\\users\\nazar\\documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u043E\u0430\u0438\u043F \u0430\u043D\u0434\u0440\u0435\u0439 \u0430\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\bk\\bk\\views\\home\\feed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3BF687-1C7C-C495-A8E1-CB8D383A78A4}|BK\\BK.csproj|solutionrelative:bk\\views\\home\\feed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3BF687-1C7C-C495-A8E1-CB8D383A78A4}|BK\\BK.csproj|c:\\users\\nazar\\documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u043E\u0430\u0438\u043F \u0430\u043D\u0434\u0440\u0435\u0439 \u0430\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\bk\\bk\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3BF687-1C7C-C495-A8E1-CB8D383A78A4}|BK\\BK.csproj|solutionrelative:bk\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3BF687-1C7C-C495-A8E1-CB8D383A78A4}|BK\\BK.csproj|c:\\users\\nazar\\documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u043E\u0430\u0438\u043F \u0430\u043D\u0434\u0440\u0435\u0439 \u0430\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\bk\\bk\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6E3BF687-1C7C-C495-A8E1-CB8D383A78A4}|BK\\BK.csproj|solutionrelative:bk\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3BF687-1C7C-C495-A8E1-CB8D383A78A4}|BK\\BK.csproj|c:\\users\\nazar\\documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u043E\u0430\u0438\u043F \u0430\u043D\u0434\u0440\u0435\u0439 \u0430\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\bk\\bk\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3BF687-1C7C-C495-A8E1-CB8D383A78A4}|BK\\BK.csproj|solutionrelative:bk\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3BF687-1C7C-C495-A8E1-CB8D383A78A4}|BK\\BK.csproj|c:\\users\\nazar\\documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u043E\u0430\u0438\u043F \u0430\u043D\u0434\u0440\u0435\u0439 \u0430\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\bk\\bk\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3BF687-1C7C-C495-A8E1-CB8D383A78A4}|BK\\BK.csproj|solutionrelative:bk\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3BF687-1C7C-C495-A8E1-CB8D383A78A4}|BK\\BK.csproj|c:\\users\\nazar\\documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u043E\u0430\u0438\u043F \u0430\u043D\u0434\u0440\u0435\u0439 \u0430\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\bk\\bk\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3BF687-1C7C-C495-A8E1-CB8D383A78A4}|BK\\BK.csproj|solutionrelative:bk\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3BF687-1C7C-C495-A8E1-CB8D383A78A4}|BK\\BK.csproj|c:\\users\\nazar\\documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u043E\u0430\u0438\u043F \u0430\u043D\u0434\u0440\u0435\u0439 \u0430\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\bk\\bk\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3BF687-1C7C-C495-A8E1-CB8D383A78A4}|BK\\BK.csproj|solutionrelative:bk\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3BF687-1C7C-C495-A8E1-CB8D383A78A4}|BK\\BK.csproj|c:\\users\\nazar\\documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u043E\u0430\u0438\u043F \u0430\u043D\u0434\u0440\u0435\u0439 \u0430\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\bk\\bk\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3BF687-1C7C-C495-A8E1-CB8D383A78A4}|BK\\BK.csproj|solutionrelative:bk\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3BF687-1C7C-C495-A8E1-CB8D383A78A4}|BK\\BK.csproj|c:\\users\\nazar\\documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u043E\u0430\u0438\u043F \u0430\u043D\u0434\u0440\u0435\u0439 \u0430\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\bk\\bk\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E3BF687-1C7C-C495-A8E1-CB8D383A78A4}|BK\\BK.csproj|solutionrelative:bk\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3BF687-1C7C-C495-A8E1-CB8D383A78A4}|BK\\BK.csproj|c:\\users\\nazar\\documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u043E\u0430\u0438\u043F \u0430\u043D\u0434\u0440\u0435\u0439 \u0430\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\bk\\bk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E3BF687-1C7C-C495-A8E1-CB8D383A78A4}|BK\\BK.csproj|solutionrelative:bk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nazar\\Documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F \u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\BK\\BK\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BK\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nazar\\Documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F \u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\BK\\BK\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BK\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-07T18:12:09.457Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\nazar\\Documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F \u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\BK\\BK\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BK\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\nazar\\Documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F \u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\BK\\BK\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BK\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-08T15:47:04.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\Documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F \u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\BK\\BK\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BK\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\nazar\\Documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F \u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\BK\\BK\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BK\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T18:34:56.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Feed.cshtml",
+              "DocumentMoniker": "C:\\Users\\nazar\\Documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F \u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\BK\\BK\\Views\\Home\\Feed.cshtml",
+              "RelativeDocumentMoniker": "BK\\Views\\Home\\Feed.cshtml",
+              "ToolTip": "C:\\Users\\nazar\\Documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F \u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\BK\\BK\\Views\\Home\\Feed.cshtml",
+              "RelativeToolTip": "BK\\Views\\Home\\Feed.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-07T18:08:34.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\nazar\\Documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F \u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\BK\\BK\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BK\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\nazar\\Documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F \u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\BK\\BK\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "BK\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-07T18:06:15.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\Documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F \u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\BK\\BK\\Program.cs",
+              "RelativeDocumentMoniker": "BK\\Program.cs",
+              "ToolTip": "C:\\Users\\nazar\\Documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F \u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\BK\\BK\\Program.cs",
+              "RelativeToolTip": "BK\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:53:13.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\nazar\\Documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F \u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\BK\\BK\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BK\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\nazar\\Documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F \u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\BK\\BK\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "BK\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-07T18:08:53.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\Documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F \u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\BK\\BK\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "BK\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\nazar\\Documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F \u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\BK\\BK\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "BK\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T07:46:52.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nazar\\Documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F \u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\BK\\BK\\Views\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "BK\\Views\\Profile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nazar\\Documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F \u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\BK\\BK\\Views\\Profile\\Index.cshtml",
+              "RelativeToolTip": "BK\\Views\\Profile\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-07T18:10:23.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\nazar\\Documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F \u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\BK\\BK\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BK\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\nazar\\Documents\\study\\2\u0439 \u043A\u0443\u0440\u0441\\\u041E\u0410\u0418\u041F \u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u0438\u0447\\BK\\BK\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BK\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T07:41:38.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
