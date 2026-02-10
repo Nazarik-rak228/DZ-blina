@@ -1,11 +1,12 @@
 import os
+from abc import ABC, abstractmethod
 
 
 # Абстрактный класс 
 class Person:
     def __init__(self, name):
         self.name = name
-
+    @abstractmethod
     def menu(self):
         pass  
 
