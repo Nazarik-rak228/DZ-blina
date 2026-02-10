@@ -38,3 +38,20 @@ footer{
 pb-3 {
     text-align: center;
 }
+.logout-btn,
+button.nav-link.text-danger {
+    background: none;
+    border: none;
+    color: #ff4d4d !important; 
+    font-weight: bold;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    transition: all 0.2s;
+}
+
+    .logout-btn:hover,
+    button.nav-link.text-danger:hover {
+        background: rgba(255, 77, 77, 0.15);
+        color: #ff3333 !important;
+    }

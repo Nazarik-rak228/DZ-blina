@@ -21,6 +21,9 @@
                             
                     <a asp-controller="Profile" asp-action="Index" style="color:whitesmoke"> <i class="bi bi-person-circle"></i>Мой профиль</a>
                     <a asp-controller="Home" asp-action="Feed" style="color:whitesmoke"><i class="bi bi-house-door"></i>Главная</a>
+                    <form asp-controller="Account" asp-action="Logout" method="post" style="display: inline;">
+                        <button type="submit" class="logout-btn">Выйти</button>
+                    </form>
                         }
                         else
                         {
