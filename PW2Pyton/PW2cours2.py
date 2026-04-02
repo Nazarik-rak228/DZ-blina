@@ -229,7 +229,7 @@ def load():
     global books, users, librarians
 
     try:
-        with open("saveFull.gz","rb") as title:
+        with gzip.open("saveFull.pkl.gz","rb") as title:
             books,users,librarians=pickle.load(title)
     
     except(FileNotFoundError):
@@ -276,7 +276,7 @@ def load():
 
 
 def save():
-    with open("saveFull.gz","wb") as title:
+    with gzip.open("saveFull.pkl.gz","wb") as title:
         pickle.dump((books,users,librarians), title)
 
     # with open("books.txt", "w", encoding="utf-8") as f:
@@ -304,8 +304,10 @@ def show_available():
 
 
 
+
 def main():
     load()
+    
 
     # Если нет библиотекарей — создаём первого
     if not librarians:
@@ -363,7 +365,11 @@ def main():
                 print("Введите число")
 
     save()
+    with gzip.open("saveFull.pkl.gz","rb") as title:
+            sas = title.read(40)
+    print(sas)
     print("До свидания!")
+    
 
 
 if __name__ == "__main__":
